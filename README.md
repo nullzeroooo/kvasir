@@ -2,8 +2,8 @@
 Kvasir is an **online e-learning platform** where users can create and buy courses.
 
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
+  <summary><h4>Table of Contents</h4></summary>
+  <ul>
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
@@ -17,7 +17,7 @@ Kvasir is an **online e-learning platform** where users can create and buy cours
     <li><a href="#usage">Usage</a></li>
     <li><a href="#team">Team</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+  </ul>
 </details>
 
 ## About The Project
